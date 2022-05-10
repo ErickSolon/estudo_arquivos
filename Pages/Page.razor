@@ -1,0 +1,37 @@
+@page "/pagina"
+
+@using System.IO
+
+<InputFile OnChange="@SingleUpload" />
+<br>
+<br>
+Tamanho: @imgSize<br>
+Extensão: @imgType<br>
+Última Modificação: @imgLastMod<br>
+Nome da imagem: @imgName<br>
+<br><br>
+<img src="data:image/png;base64,@imgBase64">
+<a href="data:image/png;base64,@imgBase64"><button>Download Imagem</button></a>
+
+@code {
+    byte[] img;
+    string imgBase64;
+    long imgSize;
+    string imgType;
+    DateTimeOffset imgLastMod;
+    string imgName;
+
+   private async Task SingleUpload(InputFileChangeEventArgs e)
+   {
+     MemoryStream ms = new MemoryStream();
+     await e.File.OpenReadStream().CopyToAsync(ms);
+     img = ms.ToArray();     
+     imgSize = e.File.Size;
+     imgType = e.File.ContentType;
+     imgLastMod = e.File.LastModified;
+     imgName = e.File.Name;
+     imgBase64 = Convert.ToBase64String(img, 0, img.Length);
+
+     StateHasChanged();
+   }
+}

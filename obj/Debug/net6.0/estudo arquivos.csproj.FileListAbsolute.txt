@@ -1,0 +1,27 @@
+C:\Workspaces\CPQi WP\estudo arquivos\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspaces\CPQi WP\estudo arquivos\bin\Debug\net6.0\appsettings.json
+C:\Workspaces\CPQi WP\estudo arquivos\bin\Debug\net6.0\estudo arquivos.staticwebassets.runtime.json
+C:\Workspaces\CPQi WP\estudo arquivos\bin\Debug\net6.0\estudo arquivos.exe
+C:\Workspaces\CPQi WP\estudo arquivos\bin\Debug\net6.0\estudo arquivos.deps.json
+C:\Workspaces\CPQi WP\estudo arquivos\bin\Debug\net6.0\estudo arquivos.runtimeconfig.json
+C:\Workspaces\CPQi WP\estudo arquivos\bin\Debug\net6.0\estudo arquivos.dll
+C:\Workspaces\CPQi WP\estudo arquivos\bin\Debug\net6.0\estudo arquivos.pdb
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.csproj.AssemblyReference.cache
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.AssemblyInfoInputs.cache
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.AssemblyInfo.cs
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.csproj.CoreCompileInputs.cache
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.RazorAssemblyInfo.cache
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.RazorAssemblyInfo.cs
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\scopedcss\bundle\estudo arquivos.styles.css
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\scopedcss\projectbundle\estudo arquivos.bundle.scp.css
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.dll
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\refint\estudo arquivos.dll
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.pdb
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\estudo arquivos.genruntimeconfig.cache
+C:\Workspaces\CPQi WP\estudo arquivos\obj\Debug\net6.0\ref\estudo arquivos.dll
